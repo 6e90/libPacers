@@ -8,5 +8,5 @@ The LibPacers aims to simplify and streamline library patrons operations by auto
 
 To use LibPaceres, follow these steps:
 
-Ensure that you have Python installed on your machine. The Library Robot requires Python version 3.6 or above.
-Clone the Library Robot repository from GitHub:
+1. Ensure that you have Python installed on your machine. The Library Robot requires Python version 3.6 or above.
+2. Clone the Library Robot repository from GitHub:
